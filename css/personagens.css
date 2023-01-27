@@ -1,0 +1,44 @@
+body {
+    font-family: 'Poppins';
+}
+
+p {
+    padding: 2px;
+    
+}
+
+.p1  {
+    background-color: #f03a17;
+    color: white;
+    font-size: 1.5em;
+    width: 100vw;
+    height: 220px;
+    display: flex;
+}
+
+
+.p2  {
+    background-color: #26c857;
+    color: white;
+    font-size: 1.5em;
+    width: 100vw;
+    height: 220px;
+    display: flex;
+}
+
+.p3  {
+    background-color: #1993c7;
+    color: white;
+    font-size: 1.5em;
+    width: 100vw;
+    height: 220px;
+    display: flex;
+}
+.mario .luigi .toad {
+    width: 300px;
+    height: 220px;
+}
+
+
+
+
