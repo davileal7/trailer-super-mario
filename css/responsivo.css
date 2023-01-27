@@ -3,7 +3,7 @@
         background-color: #e6746a;
     }
     .fundo-video {  
-        
+        position: absolute; /* imagem fica em cima */
         z-index: -1; /*imagem por tras */
         width: 100vw;
         height: 100vh;
