@@ -30,7 +30,7 @@ body {
 }
 
 .cabecalho nav li a:hover {
-    background-color: red;
+    background-color: #f03a17;
 }
 
 
@@ -55,7 +55,7 @@ body {
 }
 
 .container .botao-trailer {
-    background-color: red;
+    background-color: #f03a17;
     color: white;
     padding: 15px;
     font-size: 18px;
@@ -67,11 +67,10 @@ body {
 }
 
 .container .botao-trailer:hover {
-    transform: scale(1.1); /* função aumentar o botao */
+    transform: scale(1.1); /* função aumentar o botao (veja o trailer) */
 }
 
-.fundo-video {
-    background-color: red;
+.fundo-video {  
     position: absolute; /* imagem fica em cima */
     z-index: -1; /*imagem por tras */
     width: 100vw;

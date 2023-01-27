@@ -1,9 +1,34 @@
 @media  (max-width: 1200px) {
     body{
-        background-color: #f44336;
+        background-color: #e6746a;
     }
-    .fundo-video {
-        display: none;
+    .fundo-video {  
+        
+        z-index: -1; /*imagem por tras */
+        width: 100vw;
+        height: 100vh;
+        overflow: hidden; /* escoder a rolagem */
+        display: flex;
+        justify-content: center;
+    }
+    
+    .fundo-video .video {
+        height: 100vh;
+    }
+    
+    .fundo-video::after { /* criação de elemento */
+        content: "";
+        height: 100vh;
+        width: 100vw;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(0,0,0,0.10) 50%, rgba(0,0,0,1) 100%);
+    }
+
+    .cabecalho nav li a:hover {
+        background-color: black;
+        
     }
     
     .container {
@@ -30,7 +55,7 @@
 
     .container 
     .botao-trailer {
-        background-color: #263238;
+        background-color: #101311;
     }
 }
 
