@@ -22,13 +22,11 @@
         display: inline-block;
     }
 
-
-
     .status  {
         color: white;
         font-size: 0.71em;
         width: 100vw;
-        height: 150px;
+        height: 80px;
         display: flex;
     }
        
