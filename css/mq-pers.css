@@ -37,7 +37,7 @@
     }
 }
 
-/*celular*/
+/*ipad*/
 @media (max-width: 600px) {
 
 
@@ -70,3 +70,35 @@
     }
 }
 
+/*celular*/
+@media (max-width: 350px) {
+
+
+    .container_op {
+        padding: 1px;
+        text-align: center;
+        background-color: black;
+        width: 100vw;
+    }
+    
+    .logo_mario {
+        height: 80px;
+        width: 300px;
+    }
+
+    a {
+        font-size: 1em;
+    }
+
+    .container {
+        display: inline;
+    }
+
+    .status  {
+        color: white;
+        font-size: 0.50em;
+        width: 100vw;
+        height: 150px;
+        display: flex;
+    }
+}
