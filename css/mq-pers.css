@@ -6,7 +6,7 @@
     }
     .container_op {
         padding: 1px;
-        text-align: center;
+        
         background-color: black;
         width: 100vw;
     }
@@ -28,8 +28,10 @@
 }
 
 @media (max-width: 790px) {
+    
     .logo_mario {
-        height: 100px;
+        text-align: left;
+        height: 80px;
         width: 400px;
     }
     a {
@@ -43,27 +45,30 @@
 
     .container_op {
         padding: 1px;
-        text-align: center;
+        text-align: left;
         background-color: black;
         width: 100vw;
+        
     }
     
     .logo_mario {
-        height: 80px;
-        width: 100px;
+        height: 60px;
+        width: 300px;
+    
     }
 
     a {
-        font-size: 0.90em;
+        font-size: 1em;
     }
 
     .container {
         display: inline;
+        
     }
 
     .status  {
         color: white;
-        font-size: 0.55em;
+        font-size: 0.70em;
         width: 100vw;
         height: 150px;
         display: flex;
@@ -71,12 +76,12 @@
 }
 
 /*celular*/
-@media (max-width: 3750px) {
+@media (max-width: 375px) {
 
 
     .container_op {
         padding: 1px;
-        text-align: center;
+        text-align: right;
         background-color: black;
         width: 100vw;
     }
