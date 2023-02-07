@@ -53,7 +53,7 @@
     
     .logo_mario {
         height: 60px;
-        width: 300px;
+        width: 200px;
     
     }
 
@@ -68,7 +68,7 @@
 
     .status  {
         color: white;
-        font-size: 0.70em;
+        font-size: 0.75em;
         width: 100vw;
         height: 150px;
         display: flex;
