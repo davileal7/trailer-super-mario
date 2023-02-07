@@ -50,7 +50,7 @@
     
     .logo_mario {
         height: 80px;
-        width: 200px;
+        width: 100px;
     }
 
     a {
@@ -71,7 +71,7 @@
 }
 
 /*celular*/
-@media (max-width: 250px) {
+@media (max-width: 3750px) {
 
 
     .container_op {
@@ -83,7 +83,7 @@
     
     .logo_mario {
         height: 80px;
-        width: 200px;
+        width: 100px;
     }
 
     a {
