@@ -76,11 +76,10 @@
     
         background-color: black;
         width: 100vw;
-        
     }
 
     .menu {
-        height: 120px;
+        height: 140px;
     }
 
     h1 {
@@ -101,13 +100,10 @@
     .mario_chars {
         height: 50px;
         width: 100px;
-        
     }
 
     a {
         font-size: 1em;
-        
-        
     }
 
     
@@ -116,13 +112,11 @@
         height: 100px;
         width: 120px;
         border-radius: 100px;
-        
     }
 
     .container {
         display: flex;
         background-color: black;
         width: 100vw;
-        
     }
 }

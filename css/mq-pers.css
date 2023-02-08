@@ -42,17 +42,15 @@
 /*ipad---Celular*/
 @media (max-width: 600px) {
 
-
     .container_op {
         padding: 1px;
         text-align: left;
         background-color: black;
         width: 100vw;
-        
     }
 
     .menu {
-        height: 120px;
+        height: 140px;
     }
 
     h1 {
@@ -73,13 +71,10 @@
     .mario_chars {
         height: 50px;
         width: 100px;
-        
     }
 
     a {
         font-size: 1em;
-        
-        
     }
 
     .container {
