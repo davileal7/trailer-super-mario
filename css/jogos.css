@@ -71,6 +71,7 @@ img {
 }
 
 .container {
+    width: 100vw;
     display: flex;
     background-color: black;
     
