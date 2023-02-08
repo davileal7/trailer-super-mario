@@ -1,0 +1,58 @@
+/*ipad---Celular*/
+@media (max-width: 600px) {
+
+
+    .container_op {
+        padding: 1px;
+        text-align: left;
+        background-color: black;
+        width: 100vw;
+        
+    }
+
+    .menu {
+        height: 120px;
+    }
+
+    h1 {
+        font-size: 0;
+        height: 20px;
+    }
+
+    .powers {
+        height: 20px;
+        width: 140px;
+    }
+    
+    .logo_mario {
+        height: 60px;
+        width: 200px;
+    }
+
+    .mario_chars {
+        height: 50px;
+        width: 100px;
+        
+    }
+
+    a {
+        font-size: 1em;
+        
+        
+    }
+
+    
+
+    img {
+        height: 100px;
+        width: 120px;
+        border-radius: 100px;
+        
+    }
+
+    .container {
+        display: flex;
+        background-color: black;
+        
+    }
+}
