@@ -31,6 +31,41 @@
    
 }
 
+@media (max-width: 790px) {
+
+    img {
+        width: 100vw;
+    }
+
+  
+    h1 {
+        font-size: 0;
+        height: 20px;
+    }
+
+    .powers {
+        height: 20px;
+        width: 130px;
+        
+    }
+    
+    .logo_mario {
+        text-align: left;
+        height: 80px;
+        width: 220px;
+    }
+
+    .mario_chars {
+        height: 50px;
+        width: 100px;
+        
+    }
+
+    a {
+        font-size: 1em;
+    }
+}
+
 
 /*ipad---Celular*/
 @media (max-width: 600px) {

@@ -16,7 +16,7 @@ body {
 }
 
 .menu {
-    height: 230px;
+    height: 260px;
     border: 3px dashed wheat;
 }
 
@@ -36,14 +36,18 @@ h1 {
 
 p  {
     text-align: right;
+    padding: 5px;
+   
 }
 
 .container > .status > p {
+    font-size: 0.90em;
     text-align: left;
+    padding: 0;
 } 
 
 .logo_mario {
-    height: 130px;
+    height: 140px;
     width: 700px;
 }
 
@@ -53,14 +57,17 @@ p  {
 }
 
 
+
+
 a {
     color: white;
+    background-color: #f03a17;
     font-size: 2em;
     text-decoration: none;
     cursor: pointer;
-    padding: 3px;
-    margin: 1px;
+    
     border-radius: 5px;
+    border: 2px solid rgb(27, 154, 4);
    
 }
 
