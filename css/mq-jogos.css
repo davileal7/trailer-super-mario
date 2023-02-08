@@ -1,10 +1,44 @@
+@media (max-width: 1000px) { 
+
+    .logo_mario {
+        height: 100px;
+        width: 300px;
+    }
+    .container_op {
+        padding: 1px;
+        
+        background-color: black;
+        width: 100vw;
+    }
+
+    a {
+        font-size: 1.6em;
+    }
+
+    img {
+        height: 135px;
+        width: 165px;
+        border-radius: 100px;
+        
+    }
+
+    .container {
+        display: flex;
+        background-color: black;
+        width: 100vw;
+        
+    }
+   
+}
+
+
 /*ipad---Celular*/
 @media (max-width: 600px) {
 
 
     .container_op {
         padding: 1px;
-        
+    
         background-color: black;
         width: 100vw;
         
