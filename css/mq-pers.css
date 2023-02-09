@@ -60,7 +60,12 @@
         display: inline;
     }
 
-    a {
+    .home {
+        font-size: 0.90em;
+
+    }
+
+    .jogos {
         font-size: 0.90em;
     }
 
@@ -113,7 +118,7 @@
     }
 
     .menu {
-        height: 90px;
+        height: 75px;
     }
 
     h1 {
@@ -127,8 +132,8 @@
     }
     
     .logo_mario {
-        height: 75px;
-        width: 290px;
+        height: 60px;
+        width: 250px;
     }
 
     .mario_chars {

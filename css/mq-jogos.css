@@ -164,8 +164,8 @@
 
 
     img {
-        height: 130px;
-        width: 120px;
+        height: 140px;
+        width: 150px;
     }
 
 
@@ -191,7 +191,7 @@
     }
 
     .menu {
-        height: 90px;
+        height: 75px;
     }
 
     h1 {
@@ -205,8 +205,8 @@
     }
     
     .logo_mario {
-        height: 75px;
-        width: 290px;
+        height: 60px;
+        width: 250px;
     }
 
     .mario_chars {
