@@ -108,12 +108,12 @@
     }
 
     .home {
-        font-size: 0.85em;
+        font-size: 0.90em;
 
     }
 
     .personagens {
-        font-size: 0.85em;
+        font-size: 0.90em;
     }
 
     img {
@@ -191,7 +191,7 @@
     }
 
     .menu {
-        height: 80px;
+        height: 90px;
     }
 
     h1 {
@@ -205,25 +205,24 @@
     }
     
     .logo_mario {
-        height: 60px;
-        width: 170px;
+        height: 75px;
+        width: 290px;
     }
 
     .mario_chars {
-        height: 40px;
-        width: 90px;
+        width: 0;
     }
 
     .home {
-        font-size: 0.80em;
+        font-size: 0.70em;
     }
     .personagens {
-        font-size: 0.80em;
+        font-size: 0.70em;
     }
 
     img {
-        height: 120px;
-        width: 100px;
+        height: 125px;
+        width: 95px;
         border-radius: 100px;
     }
 

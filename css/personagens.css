@@ -58,17 +58,32 @@ p  {
     width: 200px;
 }
 
-a {
+.home {
     color: black;
     background-color: #eed4c9;
     font-size: 1.80em;
     text-decoration: none;
     cursor: pointer;
-    
+    padding: 3px;
+    margin: 1px;
     border-radius: 5px;
-    border: 2px solid rgb(16, 101, 180);
-   
+    border: 2px solid rgb(17, 53, 217);
+    
 }
+
+.jogos {
+    color: black;
+    background-color: #eed4c9;
+    font-size: 1.80em;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 3px;
+    margin: 1px;
+    border-radius: 5px;
+    border: 2px solid  rgb(17, 53, 217);
+}
+
+
 
 a:hover {
     color: white;
