@@ -29,7 +29,7 @@ body {
 }
 
 h1 {
-    font-size: 1.5em;
+    
     text-align: right;
     background-color: #f03a17;
     
@@ -61,7 +61,7 @@ p  {
 a {
     color: black;
     background-color: #eed4c9;
-    font-size: 2em;
+    font-size: 1.80em;
     text-decoration: none;
     cursor: pointer;
     

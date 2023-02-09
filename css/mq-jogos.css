@@ -1,8 +1,8 @@
-@media (max-width: 1000px) { 
+@media (max-width: 1600px) { 
 
     .logo_mario {
-        height: 100px;
-        width: 300px;
+        height: 135px;
+        width: 500px;
     }
     .container_op {
         padding: 1px;
@@ -11,13 +11,114 @@
         width: 100vw;
     }
 
-    a {
-        font-size: 1.6em;
+    .home {
+        font-size: 1.0em;
+
+    }
+
+    .personagens {
+        font-size: 1.0em;
     }
 
     img {
+        height: 210px;
+        width: 330px;
+        border-radius: 100px;
+        
+    }
+
+    .container {
+        display: flex;
+        background-color: black;
+        width: 100vw;
+        
+    }
+   
+}
+
+@media (max-width: 1300px) { 
+
+    .logo_mario {
         height: 135px;
-        width: 165px;
+        width: 500px;
+    }
+    .container_op {
+        padding: 1px;
+        
+        background-color: black;
+        width: 100vw;
+    }
+
+    .home {
+        font-size: 1.0em;
+
+    }
+
+    .personagens {
+        font-size: 1.0em;
+    }
+
+    img {
+        height: 170px;
+        width: 270px;
+        border-radius: 100px;
+        
+    }
+
+    .container {
+        display: flex;
+        background-color: black;
+        width: 100vw;
+        
+    }
+   
+}
+
+@media (max-width: 1000px) {
+    
+    h1 {
+        height: 25px;
+    }
+
+    .powers {
+        height: 20px;
+        width: 180px;
+    }
+
+    .menu {
+        height: 140px;
+    }
+
+    .logo_mario {
+        height: 120px;
+        width: 400px;
+    }
+
+    .mario_chars {
+        height: 60px;
+        width: 170px;
+        
+    }
+
+    .container_op {
+        padding: 1px;
+        
+        background-color: black;
+        width: 100vw;
+    }
+
+    .home {
+        font-size: 0.85em;
+
+    }
+
+    .personagens {
+        font-size: 0.85em;
+    }
+
+    img {
+        height: 130px;
+        width: 235px;
         border-radius: 100px;
         
     }
@@ -33,36 +134,47 @@
 
 @media (max-width: 790px) {
 
-    img {
-        width: 100vw;
-    }
-
-  
     h1 {
-        font-size: 0;
-        height: 20px;
+        height: 30px;
     }
 
+    
     .powers {
         height: 20px;
-        width: 130px;
+        width: 200px;
         
     }
-    
+
+    .menu {
+        height: 100px;
+        
+    }
+
     .logo_mario {
-        text-align: left;
+        
         height: 80px;
-        width: 220px;
+        width: 300px;
     }
 
     .mario_chars {
-        height: 50px;
-        width: 100px;
+        height: 60px;
+        width: 140px;
         
     }
 
-    a {
-        font-size: 1em;
+
+    img {
+        height: 130px;
+        width: 180px;
+    }
+
+
+    .home {
+        font-size: 0.85em;
+    }
+    
+    .personagens {
+        font-size: 0.85em;
     }
 }
 
@@ -110,8 +222,8 @@
     }
 
     img {
-        height: 100px;
-        width: 120px;
+        height: 120px;
+        width: 135px;
         border-radius: 100px;
     }
 

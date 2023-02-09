@@ -28,12 +28,27 @@
 }
 
 @media (max-width: 790px) {
-    
-    .logo_mario {
-        text-align: left;
-        height: 80px;
-        width: 400px;
+
+    .powers {
+        height: 20px;
+        width: 200px;
     }
+    
+    .menu {
+        height: 100px;
+    }
+
+    .logo_mario {
+       
+        height: 80px;
+        width: 300px;
+    }
+
+    .mario_chars {
+        height: 60px;
+        width: 140px;
+    }
+
     a {
         font-size: 1.2em;
     }
