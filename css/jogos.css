@@ -32,6 +32,7 @@ p  {
 }
 
 .menu {
+    height: 140px;
     border: 3px dashed wheat;
 }
 
@@ -47,9 +48,9 @@ p  {
     border: none;
 }
 
-a {
-    color: white;
-    background-color: #f03a17;
+.home {
+    color: black;
+    background-color: #eed4c9;
     font-size: 2em;
     text-decoration: none;
     cursor: pointer;
@@ -60,16 +61,28 @@ a {
     
 }
 
-a:hover {
+.personagens {
     color: black;
     background-color: #eed4c9;
+    font-size: 2em;
+    text-decoration: none;
+    cursor: pointer;
+    padding: 3px;
+    margin: 1px;
+    border-radius: 5px;
+    border: 2px solid rgb(27, 154, 4);
+}
+
+a:hover {
+    color: white;
+    background-color: #f03a17;
     border-radius: 5px;
 }
 
 
 img {
     height: 300px;
-    width: 480px;
+    width: 320px;
     border-radius: 100px;
     border: 3px dashed wheat;
 }
@@ -78,5 +91,6 @@ img {
     width: 100vw;
     display: flex;
     background-color: black;
+    
     
 }

@@ -4,19 +4,20 @@
  }
 
 body {
+   
     font-family: 'Poppins';
-    color: white;    
+    color: white; 
+       
 }
 
 .container_op {
     width: 100vw;
-   
     background-color: black;
     
 }
 
 .menu {
-    height: 260px;
+    height: 160px;
     border: 3px dashed wheat;
 }
 
@@ -24,6 +25,7 @@ body {
     border: none;
     height: 40px;
     width: 300px;
+    
 }
 
 h1 {
@@ -56,31 +58,22 @@ p  {
     width: 200px;
 }
 
-
-
-
 a {
-    color: white;
-    background-color: #f03a17;
+    color: black;
+    background-color: #eed4c9;
     font-size: 2em;
     text-decoration: none;
     cursor: pointer;
     
     border-radius: 5px;
-    border: 2px solid rgb(27, 154, 4);
+    border: 2px solid rgb(16, 101, 180);
    
 }
 
 a:hover {
-    color: black;
-    background-color: #eed4c9;
+    color: white;
+    background-color: #f03a17;
    
-    
-}
-
-.container {
-    display: flex;
-    
 }
 
 #mario {
@@ -106,10 +99,8 @@ a:hover {
     color: white;
     font-size: 1.4em;
     width: 100vw;
-    height: 330px;
+    height: 360px;
     display: flex;
-    
-    
 }
    
 

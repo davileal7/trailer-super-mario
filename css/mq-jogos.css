@@ -79,7 +79,7 @@
     }
 
     .menu {
-        height: 140px;
+        height: 80px;
     }
 
     h1 {
@@ -102,11 +102,12 @@
         width: 100px;
     }
 
-    a {
-        font-size: 1em;
+    .home {
+        font-size: 0.80em;
     }
-
-    
+    .personagens {
+        font-size: 0.80em;
+    }
 
     img {
         height: 100px;
