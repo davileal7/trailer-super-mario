@@ -1,8 +1,9 @@
-@media (max-width: 1000px) { 
+@media (max-width: 1300px) { 
+
 
     .logo_mario {
         height: 135px;
-        width: 500px;
+        width: 520px;
     }
     .container_op {
         padding: 1px;
@@ -16,9 +17,46 @@
         display: inline;
     }
 
+    a {
+        font-size: 1.5em;
+    }
+
     .status  {
         color: white;
-        font-size: 0.92em;
+        font-size: 1.2em;
+        width: 100vw;
+        height: 150px;
+        display: flex;
+        
+    }
+
+}
+
+@media (max-width: 1000px) { 
+
+    .logo_mario {
+        height: 135px;
+        width: 400px;
+    }
+    .container_op {
+        padding: 1px;
+        
+        background-color: black;
+        width: 100vw;
+    }
+
+    
+    .container {
+        display: inline;
+    }
+
+    a {
+        font-size: 1.4em;
+    }
+
+    .status  {
+        color: white;
+        font-size: 1em;
         width: 100vw;
         height: 150px;
         display: flex;
@@ -80,16 +118,16 @@
     
     .logo_mario {
         height: 60px;
-        width: 200px;
+        width: 220px;
     }
 
     .mario_chars {
-        height: 50px;
-        width: 100px;
+        height: 40px;
+        width: 80px;
     }
 
     a {
-        font-size: 0.80em;
+        font-size: 0.82em;
     }
 
     .container {
@@ -99,7 +137,7 @@
 
     .status  {
         color: white;
-        font-size: 0.71em;
+        font-size: 0.81em;
         width: 100vw;
         height: 150px;
         display: flex;
