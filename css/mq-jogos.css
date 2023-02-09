@@ -69,11 +69,10 @@
         display: flex;
         background-color: black;
         width: 100vw;
-        
     }
-   
 }
 
+/*celular deitado SIM*/
 @media (max-width: 1000px) {
     
     h1 {
@@ -86,7 +85,7 @@
     }
 
     .menu {
-        height: 140px;
+        height: 130px;
     }
 
     .logo_mario {
@@ -102,7 +101,6 @@
 
     .container_op {
         padding: 1px;
-        
         background-color: black;
         width: 100vw;
     }
@@ -117,10 +115,9 @@
     }
 
     img {
-        height: 140px;
-        width: 180px;
+        height: 160px;
+        width: 190px;
         border-radius: 100px;
-        
     }
 
     .container {
@@ -129,16 +126,15 @@
         width: 100vw;
         
     }
-   
 }
 
+/*celular deitado*/
 @media (max-width: 790px) {
 
     h1 {
         height: 30px;
     }
 
-    
     .powers {
         height: 20px;
         width: 200px;
