@@ -143,12 +143,11 @@
     }
 }
 
-/*ipad---Celular*/
+/*mobileFirst---Celular*/
 @media (max-width: 600px) {
 
     .container_op {
         padding: 1px;
-        
         background-color: black;
         width: 100vw;
     }
@@ -166,11 +165,11 @@
         background-color: white;
         color: black;
         font-size: 0.75em;
-        border: 1px solid black;
-        height: 13px;
+        border: 1px solid white;
+        height: 9px;
         border-radius: 5px;
-        margin: 10px;
-        padding: 3px;
+        margin: 8px;
+        padding: 1px;
         
     }
 
