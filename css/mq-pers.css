@@ -49,6 +49,17 @@
         height: 130px;
     }
 
+    .nome {
+        background-color: white;
+        color: black;
+        font-size: 0.85em;
+        border: 1px solid black;
+        height: 18px;
+        border-radius: 5px;
+        margin: 10px;
+        padding: 2px;
+    }
+
     .logo_mario {
         height: 110px;
         width: 370px;
@@ -77,10 +88,19 @@
     .container {
         display: inline;
     }
+    .mario2,
+    .toad2,
+    .luigi2,
+    .princesa2,
+    .bowser2,
+    .yoshi2 {
+        height: 130px;
+        width: 120px;
+    }
 
     .status  {
         color: white;
-        font-size: 1em;
+        font-size: 0.85em;
         width: 100vw;
         height: 150px;
         display: flex;
@@ -142,6 +162,18 @@
         height: 20px;
     }
 
+    .nome {
+        background-color: white;
+        color: black;
+        font-size: 0.75em;
+        border: 1px solid black;
+        height: 13px;
+        border-radius: 5px;
+        margin: 10px;
+        padding: 3px;
+        
+    }
+
     .powers {
         height: 20px;
         width: 140px;
@@ -166,6 +198,16 @@
     .container {
         display: inline;
         
+    }
+
+    .mario2,
+    .toad2,
+    .luigi2,
+    .princesa2,
+    .bowser2,
+    .yoshi2 {
+        height: 0;
+        width: 0;
     }
 
     .status  {

@@ -29,17 +29,28 @@ body {
 }
 
 h1 {
-    
     text-align: right;
     background-color: #f03a17;
     
 }
 
+.nome {
+    background-color: white;
+    color: black;
+    font-size: 0.90em;
+    border: 1px solid black;
+    height: 30px;
+    border-radius: 5px;
+    margin: 15px;
+    padding: 3px;
+    
+}
+
+
 
 p  {
     text-align: right;
     padding: 5px;
-   
 }
 
 .container > .status > p {
@@ -94,20 +105,51 @@ a:hover {
 #mario {
     background-color: #f03a17;
 }
+.mario2 {
+    height: 350px;
+    width: 350px;
+}
+
 #toad {
     background-color: #38abe0;
 }
+
+.toad2 {
+    height: 350px;
+    width: 350px;    
+}
+
 #luigi {
     background-color: #0a9c05;
+}
+
+.luigi2 {
+    height: 350px;
+    width: 350px;
 }
 #princesa {
     background-color: #df62c0;
 }
+
+.princesa2 {
+    height: 350px;
+    width: 350px;
+}
 #bowser {
     background-color: #672323;
 }
+
+.bowser2 {
+    height: 350px;
+    width: 350px;
+}
 #yoshi {
     background-color: #26a969;
+}
+
+.yoshi2 {
+    height: 350px;
+    width: 350px;
 }
 
 .status  {
