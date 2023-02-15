@@ -12,13 +12,13 @@ body {
 
 header {
     height: 200px;
-    background-color: #c3d5e1;
+    background-color: #e4e176;
 }
 
 .container_op {
     position: fixed;
     text-align: center;
-    background-color: #c3d5e1;
+    background-color: #e4e176;
     width: 100vw;
     
     
