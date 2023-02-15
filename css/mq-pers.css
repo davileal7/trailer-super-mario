@@ -36,13 +36,11 @@
 @media (max-width: 1000px) { 
     
     header {
-        height: 128px;
-       
-      
+        height: 162px;
+        
     }
 
     .container_op {
-        position: fixed;
         padding: 1px;
         background-color: #e4e176;
         width: 100vw;
@@ -75,26 +73,27 @@
     }
 
     .logo_mario {
-        height: 110px;
-        width: 370px;
+        height: 100px;
+        width: 350px;
     }
 
     .mario_chars {
         height: 60px;
-        width: 160px;
+        width: 120px;
     }
 
     .home {
-        font-size: 0.90em;
+        font-size: 0.80em;
     }
 
     .jogos {
-        font-size: 0.90em;
+        font-size: 0.80em;
     }
 
     .container {
         display: inline;
     }
+
     .mario2,
     .toad2,
     .luigi2,

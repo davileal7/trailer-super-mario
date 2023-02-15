@@ -20,11 +20,7 @@ header {
     text-align: center;
     background-color: #e4e176;
     width: 100vw;
-    
-    
 }
-
-
 
 .powers {
     border: none;
@@ -35,8 +31,7 @@ header {
 
 h1 {
     text-align: right;
-    background-color: #f03a17;
-    
+    background-color: #f03a17; 
 }
 
 .nome {
