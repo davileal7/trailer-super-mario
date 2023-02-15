@@ -34,6 +34,20 @@
 
 /*celular deitado SIM*/
 @media (max-width: 1000px) { 
+    
+    header {
+        height: 128px;
+       
+      
+    }
+
+    .container_op {
+        position: fixed;
+        padding: 1px;
+        background-color: #e4e176;
+        width: 100vw;
+        border: 2px solid black;
+    }
 
 
     h1 {
@@ -70,13 +84,6 @@
         width: 160px;
     }
 
-    .container_op {
-        padding: 1px;
-        
-        background-color: black;
-        width: 100vw;
-    }
-
     .home {
         font-size: 0.90em;
     }
@@ -101,7 +108,7 @@
     .status  {
         color: white;
         font-size: 0.85em;
-        width: 100vw;
+        width: 1000px;
         height: 150px;
         display: flex;
     }
@@ -146,9 +153,17 @@
 /*mobileFirst---Celular*/
 @media (max-width: 600px) {
 
+    header {
+        height: 102px;
+    
+     
+      
+    }
+
     .container_op {
+        position: relative;
         padding: 1px;
-        background-color: black;
+        background-color: #e4e176;
         width: 100vw;
     }
 
