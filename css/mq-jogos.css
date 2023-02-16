@@ -12,19 +12,15 @@
     .mario_chars {
         height: 90px;
         width: 160px;
-        
     }
 
     .container_op {
         padding: 1px;
-        
-        background-color: #e4e176;
         width: 100vw;
     }
 
     .home {
         font-size: 1.40em;
-
     }
 
     .personagens {
@@ -35,14 +31,12 @@
         height: 210px;
         width: 330px;
         border-radius: 100px;
-        
     }
 
     .container {
         display: flex;
         background-color: black;
         width: 100vw;
-        
     }
    
 }
@@ -55,14 +49,11 @@
     }
     .container_op {
         padding: 1px;
-        
-        background-color: black;
         width: 100vw;
     }
 
     .home {
         font-size: 1.0em;
-
     }
 
     .personagens {
@@ -73,7 +64,6 @@
         height: 170px;
         width: 220px;
         border-radius: 100px;
-        
     }
 
     .container {
@@ -100,7 +90,6 @@
     }
 
     .logo_mario2 {
-        
         height: 110px;
         width: 370px;
     }
@@ -108,7 +97,6 @@
     .mario_chars2 {
         height: 60px;
         width: 160px;
-        
     }
 
     .home2 {
@@ -126,10 +114,7 @@
     }
 
     .container {
-        
-        
         width: 100vw;
-        
     }
 }
 
@@ -142,7 +127,6 @@
         width: 100vw;
     }
 
-   
     .powers2 {
         height: 20px;
         width: 200px;
@@ -162,7 +146,6 @@
         height: 140px;
         width: 145px;
     }
-
 
     .home {
         font-size: 0.85em;
@@ -186,18 +169,15 @@
     .powers2 {
         height: 20px;
         width: 140px;
-        
     }
     
     .logo_mario2 {
         height: 60px;
         width: 220px;
-       
     }
 
     .mario_chars2 {
         width: 0;
-        
     }
 
     .home2 {
@@ -235,8 +215,6 @@
         height: 80px;
         width: 100px;
     }
-
-   
 
     .container {
         display: inline;
