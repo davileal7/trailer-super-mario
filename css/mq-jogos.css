@@ -86,7 +86,6 @@
 /*celular deitado SIM*/
 @media (max-width: 1000px) {
 
-
     .container_op {
         height: 150px;
         padding: 1px;
@@ -187,20 +186,18 @@
     .powers2 {
         height: 20px;
         width: 140px;
-        border: none;
+        
     }
     
     .logo_mario2 {
         height: 60px;
         width: 220px;
-        border: none;
-        border-radius: 0;
+       
     }
 
     .mario_chars2 {
         width: 0;
-        border: none;
-        border-radius: 0;
+        
     }
 
     .home2 {

@@ -49,25 +49,14 @@
         width: 180px;
     }
 
-    .nome {
-        background-color: white;
-        color: black;
-        font-size: 0.85em;
-        border: 1px solid black;
-        height: 18px;
-        border-radius: 5px;
-        margin: 10px;
-        padding: 2px;
-    }
-
     .logo_mario {
-        height: 100px;
-        width: 350px;
+        height: 110px;
+        width: 370px;
     }
 
     .mario_chars {
         height: 60px;
-        width: 120px;
+        width: 160px;
     }
 
     .home {
@@ -86,6 +75,17 @@
     .yoshi2 {
         height: 130px;
         width: 120px;
+    }
+
+    .nome {
+        background-color: white;
+        color: black;
+        font-size: 0.85em;
+        border: 1px solid black;
+        height: 18px;
+        border-radius: 5px;
+        margin: 10px;
+        padding: 2px;
     }
 
     .status  {
