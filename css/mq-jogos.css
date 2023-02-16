@@ -86,46 +86,38 @@
 /*celular deitado SIM*/
 @media (max-width: 1000px) {
 
-    header {
-        height: 138px;
-        width: 600px;
-    
-    }
 
     .container_op {
+        height: 150px;
         padding: 1px;
         background-color: #e4e176;
-        width: 1000px;
+        width: 100vw;
         border: 2px solid black;
     }
 
-    .powers {
+    .powers2 {
         height: 20px;
         width: 180px;
     }
 
-    .menu {
-        height: 130px;
-    }
-
-    .logo_mario {
+    .logo_mario2 {
         
         height: 110px;
         width: 370px;
     }
 
-    .mario_chars {
+    .mario_chars2 {
         height: 60px;
         width: 160px;
         
     }
 
-    .home {
-        font-size: 0.90em;
+    .home2 {
+        font-size: 0.80em;
     }
 
-    .personagens {
-        font-size: 0.90em;
+    .personagens2 {
+        font-size: 0.80em;
     }
 
     img {
@@ -135,47 +127,41 @@
     }
 
     .container {
-        display: flex;
-        background-color: black;
+        
+        
         width: 100vw;
         
     }
 }
 
-/*celular deitado*/
+/*celular deitado NÃO*/
 @media (max-width: 790px) {
 
-    h1 {
-        height: 30px;
+    .container_op {
+        height: 120px;
+        padding: 1px;
+        width: 100vw;
     }
 
-    .powers {
+   
+    .powers2 {
         height: 20px;
         width: 200px;
-        
     }
 
-    .menu {
-        height: 100px;
-        
-    }
-
-    .logo_mario {
-        
+    .logo_mario2 {
         height: 80px;
         width: 300px;
     }
 
-    .mario_chars {
+    .mario_chars2 {
         height: 60px;
         width: 140px;
-        
     }
-
 
     img {
         height: 140px;
-        width: 150px;
+        width: 145px;
     }
 
 
@@ -192,47 +178,41 @@
 /*ipad---Celular*/
 @media (max-width: 600px) {
 
-
     .container_op {
+        height: 110px;
         padding: 1px;
-    
-        background-color: black;
         width: 100vw;
     }
 
-    .menu {
-        height: 75px;
-    }
-
-    h1 {
-        font-size: 0;
-        height: 20px;
-    }
-
-    .powers {
+    .powers2 {
         height: 20px;
         width: 140px;
+        border: none;
     }
     
-    .logo_mario {
+    .logo_mario2 {
         height: 60px;
-        width: 250px;
+        width: 220px;
+        border: none;
+        border-radius: 0;
     }
 
-    .mario_chars {
+    .mario_chars2 {
         width: 0;
+        border: none;
+        border-radius: 0;
     }
 
-    .home {
+    .home2 {
         font-size: 0.70em;
     }
-    .personagens {
+    .personagens2 {
         font-size: 0.70em;
     }
 
     img {
         height: 125px;
-        width: 95px;
+        width: 110px;
         border-radius: 100px;
     }
 
@@ -241,4 +221,29 @@
         background-color: black;
         width: 100vw;
     }
+}
+
+
+/*?????*/
+@media (max-width: 375px) {
+
+
+    .container_op {
+        padding: 1px;
+        background-color: black;
+        width: 100vw;
+    }
+    
+    .logo_mario2 {
+        height: 80px;
+        width: 100px;
+    }
+
+   
+
+    .container {
+        display: inline;
+    }
+
+    
 }

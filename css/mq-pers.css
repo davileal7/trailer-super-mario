@@ -35,16 +35,12 @@
 /*celular deitado SIM*/
 @media (max-width: 1000px) { 
     
-    header {
-        height: 133px;
-        width: 600px;
-    
-    }
 
     .container_op {
+        height: 150px;
         padding: 1px;
         background-color: #e4e176;
-        width: 1000px;
+        width: 100vw;
         border: 2px solid black;
     }
 
@@ -82,8 +78,6 @@
         font-size: 0.80em;
     }
 
-    
-
     .mario2,
     .toad2,
     .luigi2,
@@ -97,7 +91,7 @@
     .status  {
         color: white;
         font-size: 0.85em;
-        width: 1000px;
+        width: 100vw;
         height: 150px;
         display: flex;
     }
@@ -106,8 +100,10 @@
 /*celular deitado NÃO*/
 @media (max-width: 790px) {
 
-    h1 {
-        height: 30px;
+    .container_op {
+        height: 120px;
+        padding: 1px;
+        width: 100vw;
     }
 
     .powers {
@@ -115,10 +111,6 @@
         width: 200px;
     }
     
-    .menu {
-        height: 100px;
-    }
-
     .logo_mario {
        
         height: 80px;
@@ -142,40 +134,16 @@
 /*mobileFirst---Celular*/
 @media (max-width: 600px) {
 
-    header {
-        height: 108px;
-    }
-
     .container_op {
+        height: 110px;
         padding: 1px;
-        background-color: #e4e176;
+       
         width: 100vw;
-    }
-
-    .menu {
-        height: 75px;
-    }
-
-    h1 {
-        font-size: 0;
-        height: 20px;
-    }
-
-    .nome {
-        background-color: white;
-        color: black;
-        font-size: 0.75em;
-        border: 1px solid white;
-        height: 9px;
-        border-radius: 5px;
-        margin: 8px;
-        padding: 1px;
-        
     }
 
     .powers {
         height: 20px;
-        width: 120px;
+        width: 140px;
     }
     
     .logo_mario {
@@ -192,6 +160,18 @@
     }
     .jogos {
         font-size: 0.70em;
+    }
+
+    .nome {
+        background-color: white;
+        color: black;
+        font-size: 0.75em;
+        border: 1px solid white;
+        height: 9px;
+        border-radius: 5px;
+        margin: 8px;
+        padding: 1px;
+        
     }
 
     .container {

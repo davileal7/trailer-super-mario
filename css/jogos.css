@@ -9,32 +9,37 @@ body {
 }
 
 .container_op {
+    background-color: #e4e176;
+    height: 210px;
     text-align: center;
     width: 100vw;
+    border: 2px solid black;
 }
 
-.powers {
-    border: none;
+.powers2 {
     height: 40px;
     width: 300px;
-}
-
-.logo_mario {
-    height: 160px;
-    width: 900px;
     border: none;
 }
 
-.mario_chars {
-    height: 130px;
-    width: 230px;
+.logo_mario2 {
+    height: 140px;
+    width: 500px;
     border: none;
+    border-radius: 0;
 }
 
-.home {
+.mario_chars2 {
+    height: 90px;
+    width: 140px;
+    border: none;
+    border-radius: 0;
+}
+
+.home2 {
     color: black;
     background-color: #eed4c9;
-    font-size: 1.80em;
+    font-size: 1.50em;
     text-decoration: none;
     cursor: pointer;
     padding: 3px;
@@ -44,10 +49,10 @@ body {
     
 }
 
-.personagens {
+.personagens2 {
     color: black;
     background-color: #eed4c9;
-    font-size: 1.80em;
+    font-size: 1.50em;
     text-decoration: none;
     cursor: pointer;
     padding: 3px;
@@ -64,7 +69,6 @@ a:hover {
 
 
 img {
-    margin: 2px;
     height: 450px;
     width: 455px;
     border-radius: 100px;
@@ -73,8 +77,5 @@ img {
 
 .container {
     width: 100vw;
-    display: flex;
     background-color: black;
-    
-    
 }
