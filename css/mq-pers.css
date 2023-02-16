@@ -36,29 +36,21 @@
 @media (max-width: 1000px) { 
     
     header {
-        height: 162px;
-        
+        height: 133px;
+        width: 600px;
+    
     }
 
     .container_op {
         padding: 1px;
         background-color: #e4e176;
-        width: 100vw;
+        width: 1000px;
         border: 2px solid black;
-    }
-
-
-    h1 {
-        height: 25px;
     }
 
     .powers {
         height: 20px;
         width: 180px;
-    }
-
-    .menu {
-        height: 130px;
     }
 
     .nome {
@@ -90,9 +82,7 @@
         font-size: 0.80em;
     }
 
-    .container {
-        display: inline;
-    }
+    
 
     .mario2,
     .toad2,

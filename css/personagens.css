@@ -12,13 +12,11 @@ body {
 
 header {
     height: 200px;
-    background-color: #e4e176;
+   
 }
 
 .container_op {
-    position: fixed;
     text-align: center;
-    background-color: #e4e176;
     width: 100vw;
 }
 
@@ -26,12 +24,6 @@ header {
     border: none;
     height: 30px;
     width: 450px;
-    
-}
-
-h1 {
-    text-align: right;
-    background-color: #f03a17; 
 }
 
 .nome {

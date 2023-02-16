@@ -9,8 +9,7 @@ body {
 }
 
 .container_op {
-    padding: 1px;
-    background-color: black;
+    text-align: center;
     width: 100vw;
 }
 
@@ -18,18 +17,6 @@ body {
     border: none;
     height: 40px;
     width: 300px;
-}
-
-h1 {
-    height: 45px;    
-    text-align: right;
-    background-color: #f03a17;
-}
-
-.menu {
-    height: 210px;
-    border: 3px dashed wheat;
-    width: 100vw;
 }
 
 .logo_mario {

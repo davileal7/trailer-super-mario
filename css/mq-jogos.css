@@ -18,7 +18,7 @@
     .container_op {
         padding: 1px;
         
-        background-color: black;
+        background-color: #e4e176;
         width: 100vw;
     }
 
@@ -85,9 +85,18 @@
 
 /*celular deitado SIM*/
 @media (max-width: 1000px) {
+
+    header {
+        height: 138px;
+        width: 600px;
     
-    h1 {
-        height: 25px;
+    }
+
+    .container_op {
+        padding: 1px;
+        background-color: #e4e176;
+        width: 1000px;
+        border: 2px solid black;
     }
 
     .powers {
@@ -111,17 +120,8 @@
         
     }
 
-    .container_op {
-        padding: 1px;
-        background-color: black;
-        width: 100vw;
-    }
-    
-
     .home {
-        
         font-size: 0.90em;
-
     }
 
     .personagens {
